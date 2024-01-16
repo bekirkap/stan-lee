@@ -1,0 +1,67 @@
+body {
+  color: aliceblue;
+}
+
+.container {
+  background-color: rgb(41, 37, 37);
+  width: 80%;
+  margin: auto;
+  border-radius: 2%;
+}
+.heading {
+  font-family: "Lobster", cursive;
+}
+
+#title {
+  text-align: center;
+  font-size: 90px;
+}
+#span1 {
+  color: red;
+}
+#img-div {
+  text-align: center;
+}
+#image {
+  width: 400px;
+  border-radius: 5%;
+}
+#info {
+  text-align: justify;
+  width: 80%;
+  margin: 20px auto;
+  font-size: 24px;
+}
+#marvel {
+  color: red;
+  margin-left: 10%;
+}
+
+ul {
+  width: 80%;
+  margin: auto;
+  font-size: 24px;
+  line-height: 50px;
+}
+#footer {
+  text-align: center;
+  border: 1px solid white;
+  width: 60%;
+  margin: auto;
+  padding: 30px;
+
+  border-radius: 2px;
+  font-size: 24px;
+}
+#link {
+  border: 2px solid orange;
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  background-color: black;
+  border-radius: 10px;
+}
+#link:hover {
+  color: red;
+  background-color: gray;
+}
